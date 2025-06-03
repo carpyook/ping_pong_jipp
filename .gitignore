@@ -1,0 +1,35 @@
+# VS build folders
+[Bb]in/
+[Oo]bj/
+.vs/
+*.pdb
+*.ilk
+*.ipch
+*.obj
+*.exe
+*.dll
+*.lib
+*.log
+
+# Autogenerowane pliki VS
+*.vcxproj.*
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.cache
+
+# CMake (jeśli używasz)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+
+
