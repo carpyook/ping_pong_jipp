@@ -12,8 +12,8 @@ To prosty projekt stworzony z użyciem biblioteki **SFML**. Zawiera zarówno **k
 ### 1. Szybkie uruchomienie (bez instalacji SFML)
 Jeśli chcesz po prostu uruchomić aplikację:
 
-1. Wejdź do folderu `pingpong_aplikacja'
-2. Uruchom plik `PongAppNew.exe`.
+1. Wejdź do folderu 'pingpong_aplikacja'
+2. Uruchom plik 'PongAppNew.exe'.
 
 **Uwaga:** Wersja skompilowana zawiera już wszystkie niezbędne pliki SFML (DLL-e itp.).
 
